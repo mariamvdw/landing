@@ -1,0 +1,13 @@
+.btn-medium {
+  text-decoration: none;
+  background-color: rgba(250,250,250, 0.8);
+  color: rgba(0,0,0, 0.4);
+  padding: 14px 20px;
+  border-radius: 8px;
+  transition: background 0.3s ease;
+}
+
+.btn-medium:hover {
+  color: rgba(0,0,0, 0.8);
+}
+
